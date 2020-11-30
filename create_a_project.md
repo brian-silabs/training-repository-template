@@ -11,7 +11,9 @@ sort: 1
 ---
 ```
 -	Include Images
+
 <img src="./images/silabs_logo.png" alt="" width="500" class="center">
+
 ```
 <img src="./images/silabs_logo.png" alt="" width="500" class="center">
 ```
